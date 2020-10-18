@@ -1,0 +1,42 @@
+h1 {
+    color:black;
+}
+
+* {
+    border: solid;
+}
+
+.header{
+
+    background-color:palevioletred;
+    display:flex;
+    justify-content: space-between;
+    border: blue;
+}
+
+.game{
+
+    background-color: cyan;
+    border: rgb(14, 141, 226);
+    margin: 0ch;
+   padding-left: 0ch;
+}
+
+.grid{
+
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+    background-color: yellowgreen;
+    border: darksalmon;
+    margin: 0ch;
+    font-size: 0vmin;
+    
+}
+
+
+
+p,h2{
+
+    text-align: center;
+}
